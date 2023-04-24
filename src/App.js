@@ -62,7 +62,7 @@ function App() {
           </div>
           <div>
             <Row>
-              <Col>
+              <Col md={6} xs={12}>
                 <div className="info-box">
                   <a href="https://github.com/sugariz/download-video-youtube">
                     <span class="align-middle">
@@ -71,7 +71,7 @@ function App() {
                   </a>
                 </div>
               </Col>
-              <Col>
+              <Col md={6} xs={12}>
                 <div className="info-box">
                   <a href="https://github.com/sugariz/STW">
                     <span class="align-middle">
@@ -82,7 +82,7 @@ function App() {
               </Col>
             </Row>
             <Row>
-              <Col>
+              <Col md={6} xs={12}>
                 <div className="info-box">
                   <a href="https://github.com/sugariz/streamlit-example">
                     <span class="align-middle">
@@ -91,7 +91,7 @@ function App() {
                   </a>
                 </div>
               </Col>
-              <Col>
+              <Col md={6} xs={12}>
                 <div className="info-box">
                   <a href="https://github.com/sugariz/chat-realtime-security">
                     <span class="align-middle">
