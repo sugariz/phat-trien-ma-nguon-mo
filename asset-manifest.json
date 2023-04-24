@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.54e0ee9b.css",
-    "main.js": "/react-gh-pages/static/js/main.ab4795cf.js",
-    "static/js/787.ba385e11.chunk.js": "/react-gh-pages/static/js/787.ba385e11.chunk.js",
-    "static/media/Youtube-Downloader.png": "/react-gh-pages/static/media/Youtube-Downloader.73e724ded569e6ea5fe0.png",
-    "static/media/maxresdefault.jpg": "/react-gh-pages/static/media/maxresdefault.e09f1a8303d718c06285.jpg",
-    "static/media/online-chat-web-banner-with-text-space-vector-24786350.jpg": "/react-gh-pages/static/media/online-chat-web-banner-with-text-space-vector-24786350.17116f9f1d948f45e56c.jpg",
-    "static/media/esy-057966754.jpg": "/react-gh-pages/static/media/esy-057966754.7db0d25664724d9add34.jpg",
-    "static/media/back04.png": "/react-gh-pages/static/media/back04.d79265cc5dd17128d624.png",
-    "static/media/back02.png": "/react-gh-pages/static/media/back02.6e602125f7dbdf8e5718.png",
-    "static/media/back01.png": "/react-gh-pages/static/media/back01.134696091f86a6dc6be5.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.54e0ee9b.css.map": "/react-gh-pages/static/css/main.54e0ee9b.css.map",
-    "main.ab4795cf.js.map": "/react-gh-pages/static/js/main.ab4795cf.js.map",
-    "787.ba385e11.chunk.js.map": "/react-gh-pages/static/js/787.ba385e11.chunk.js.map"
+    "main.css": "/phat-trien-ma-nguon-mo/static/css/main.24bd2e57.css",
+    "main.js": "/phat-trien-ma-nguon-mo/static/js/main.82c27658.js",
+    "static/js/787.ba385e11.chunk.js": "/phat-trien-ma-nguon-mo/static/js/787.ba385e11.chunk.js",
+    "static/media/Youtube-Downloader.png": "/phat-trien-ma-nguon-mo/static/media/Youtube-Downloader.73e724ded569e6ea5fe0.png",
+    "static/media/maxresdefault.jpg": "/phat-trien-ma-nguon-mo/static/media/maxresdefault.e09f1a8303d718c06285.jpg",
+    "static/media/online-chat-web-banner-with-text-space-vector-24786350.jpg": "/phat-trien-ma-nguon-mo/static/media/online-chat-web-banner-with-text-space-vector-24786350.17116f9f1d948f45e56c.jpg",
+    "static/media/esy-057966754.jpg": "/phat-trien-ma-nguon-mo/static/media/esy-057966754.7db0d25664724d9add34.jpg",
+    "static/media/back04.png": "/phat-trien-ma-nguon-mo/static/media/back04.d79265cc5dd17128d624.png",
+    "static/media/back02.png": "/phat-trien-ma-nguon-mo/static/media/back02.6e602125f7dbdf8e5718.png",
+    "static/media/back01.png": "/phat-trien-ma-nguon-mo/static/media/back01.134696091f86a6dc6be5.png",
+    "index.html": "/phat-trien-ma-nguon-mo/index.html",
+    "main.24bd2e57.css.map": "/phat-trien-ma-nguon-mo/static/css/main.24bd2e57.css.map",
+    "main.82c27658.js.map": "/phat-trien-ma-nguon-mo/static/js/main.82c27658.js.map",
+    "787.ba385e11.chunk.js.map": "/phat-trien-ma-nguon-mo/static/js/787.ba385e11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e0ee9b.css",
-    "static/js/main.ab4795cf.js"
+    "static/css/main.24bd2e57.css",
+    "static/js/main.82c27658.js"
   ]
 }
